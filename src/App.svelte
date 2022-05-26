@@ -4,15 +4,15 @@
 
 <main>
 	<header class="App-header">
-		<a href="https://high-end.fathym-it.com/"><img src="./assets/T-logo-grey.jpg" class="pf-logo" alt="home" /></a>
+		<a href="/"><img src="./assets/T-logo-grey.jpg" class="pf-logo" alt="home" /></a>
 		<div class="siteNav">
-			<a href="https://high-end.fathym-it.com/brand/">
+			<a href="/brand/">
 				<button class="navbutton">Brand</button>
 			</a>
-			<a href="https://high-end.fathym-it.com/dashboard/">
+			<a href="/dashboard/">
 				<button class="navbutton">Dashboard</button>
 			</a>
-			<a href="https://high-end.fathym-it.com/digital/">
+			<a href="/digital/">
 				<button class="navbutton">Digital</button>
 			</a>
 		</div>
