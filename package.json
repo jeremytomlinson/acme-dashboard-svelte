@@ -1,5 +1,5 @@
 {
-  "name": "@fathym-it/public-web-svelte",
+  "name": "@fathym-it/acme-dashboard-svelte",
   "version": "0.0.2",
   "private": true,
   "scripts": {

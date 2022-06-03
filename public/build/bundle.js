@@ -386,7 +386,7 @@ var app = (function () {
     			br2 = element("br");
     			t11 = space();
     			img1 = element("img");
-    			if (!src_url_equal(img0.src, img0_src_value = "./assets/acme-200.png")) attr_dev(img0, "src", img0_src_value);
+    			if (!src_url_equal(img0.src, img0_src_value = "./assets/Acme-200.png")) attr_dev(img0, "src", img0_src_value);
     			attr_dev(img0, "class", "pf-logo svelte-1ezslwg");
     			attr_dev(img0, "alt", "home");
     			add_location(img0, file, 5, 14, 101);

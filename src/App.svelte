@@ -4,7 +4,7 @@
 
 <main>
 	<header class="App-header">
-		<a href="/"><img src="./assets/acme-200.png" class="pf-logo" alt="home" /></a>
+		<a href="/"><img src="./assets/Acme-200.png" class="pf-logo" alt="home" /></a>
 		<div class="siteNav">
 			<a href="/brand/">
 				<button class="navbutton">Brand</button>
