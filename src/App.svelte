@@ -4,7 +4,7 @@
 
 <main>
 	<header class="App-header">
-		<a href="/"><img src="./assets/T-logo-grey.jpg" class="pf-logo" alt="home" /></a>
+		<a href="/"><img src="./assets/acme-200.png" class="pf-logo" alt="home" /></a>
 		<div class="siteNav">
 			<a href="/brand/">
 				<button class="navbutton">Brand</button>
@@ -52,7 +52,7 @@
 	}
 
 	.pf-logo {
-		width: 96px;
+		width: 200px;
 		height: auto;
 		padding: 1rem 0 2rem 4rem;
 	}
